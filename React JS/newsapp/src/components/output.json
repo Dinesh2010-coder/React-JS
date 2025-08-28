@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "Simnikiwe Xabanisa",
+        "title": "Once-bitten Cricket SA embarks on structural review of local game to bulletproof its future",
+        "description": "Having burnt through cash reserves before, CSA - still flush from the financial injection from recently hosting India - has appointed a task team to review its structures to safeguard its sustainability.",
+        "url": "https://www.news24.com/sport/cricket/once-bitten-csa-embarks-on-structural-review-of-local-game-to-bulletproof-its-future-20250130",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9138/06bc81529d1c4314a09d8dc9573cf667.jpg",
+        "publishedAt": "2025-01-30T06:29:47",
+        "content": "Having burnt through cash reserves before, CSA - still flush from the financial injection from recently hosting India - has appointed a task team to review its structures to safeguard its sustainabil… [+3 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Women’s Ashes 2025 LIVE: Australia vs England Test, day one, Melbourne – cricket score, radio commentary, video highlights & updates",
+        "description": "England face Australia in day one of the Test in the Women’s Ashes – follow score updates, radio commentary and video highlights.",
+        "url": "http://www.bbc.co.uk/sport/cricket/live/cx2nwlv97rwt",
+        "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+        "publishedAt": "2025-01-30T03:52:19.1004498Z",
+        "content": "That's right, folks, the Ashes may not be on the line but this is a big day for both Australia and England.\r\nFor the first time since 1949, a women's Test will be played at the famous Melbourne Crick… [+314 chars]"
+      },
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Ben Talintyre",
+        "title": "‘Craziest wicket ever’ stuns cricket world",
+        "description": "A truly one-of-a-kind run-out has occurred in a game between the England U19 and South Africa U19, however, questions have been raised about whether or not he should have been given out.",
+        "url": "https://www.news.com.au/sport/cricket/craziest-wicket-ever-neverbeforeseen-runout-stuns-cricket-world/news-story/baf4422e80cdca0910929c713f4a078f",
+        "urlToImage": "https://content.api.news/v3/images/bin/d0dd3cdd144d847e8ce3441279d36883",
+        "publishedAt": "2025-01-30T03:35:00Z",
+        "content": "A truly one-of-a-kind run-out has occurred in a game between the England U19 and South Africa U19, however, questions have been raised about whether or not he should have been given out.\r\nThe inciden… [+2327 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
